@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # REST API for Online Cab Booking Application
 
 * To Create an Application for Online Cab Booking 
@@ -140,3 +141,19 @@ http://localhost:1995/swagger-ui/index.html#/
 
 ## Thank You for Visiting
  
+=======
+## Online Cab Booking UI
+
+### Setup
+> npm install
+
+> npm start
+
+### Preview
+
+> Milestone 1
+
+![Login Page](/public/login.png)
+
+![Registration Page](/public/registration.png)
+>>>>>>> f33ad71 (login and registration components)
